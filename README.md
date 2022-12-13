@@ -21,3 +21,5 @@
 </p>
 
 
+<p><img align="center" src="https://github-readme-stats .vercel.app/api/top-langs?username=veyselgaziduran&show_icons=true&locale=tr&layout=compact" alt="veyselgaziduran" /></p>
+
