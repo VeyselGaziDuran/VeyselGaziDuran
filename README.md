@@ -21,5 +21,9 @@
 </p>
 
 
+<h3 align="left">Benimle bağlantı kurun:</h3>
+<p align="left">
+</p>
+
 <p><img align="center" src="https://github-readme-stats .vercel.app/api/top-langs?username=veyselgaziduran&show_icons=true&locale=tr&layout=compact" alt="veyselgaziduran" /></p>
 
