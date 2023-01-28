@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **javascript**
 
-- 💬 Ask me about **HTML5,CSS,Bootstrap**
+- 💬 Ask me about **HTML5,CSS,Bootstrap,Scss**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
