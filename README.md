@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veyselgaziduran&label=Profile%20views&color=0e75b6&style=flat" alt="veyselgaziduran" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
