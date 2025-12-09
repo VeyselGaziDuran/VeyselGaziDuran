@@ -26,12 +26,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=veyselgaziduran&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="100" alt="languages graph"  />
-</div>
-
-###
-
 <p align="center">🌱 I’m currently learning - Growing my skills in React, Next.js, and TypeScript.<br><br>📫 How to reach me - veyselduran80@gmail.com</p>
 
 ###
