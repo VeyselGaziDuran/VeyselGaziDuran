@@ -1,38 +1,47 @@
 <h1 align="center">Hi 👋 I’m Veysel</h1>
 
 <p align="center">
-Front-End Developer building modern, performant user interfaces.<br/>
+<strong>Front-End Developer</strong><br/>
+Building modern, performant user interfaces<br/>
 Web & Mobile
 </p>
 
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/veyselgaziduran/">LinkedIn</a> ·
   <a href="https://github.com/veyselgaziduran">GitHub</a> ·
   <a href="https://medium.com/@veyselduran">Medium</a>
-</div>
+</p>
 
 ---
 
-### 🛠️ Technologies
+<h3 align="center">🛠️ Technologies</h3>
 
-**Languages**
-- HTML, CSS, JavaScript (ES6+), TypeScript
+<p align="center"><strong>Languages</strong></p>
+<p align="center">
+HTML · CSS · JavaScript (ES6+) · TypeScript
+</p>
 
-**Frameworks & Libraries**
-- React, Next.js, React Native
-- Tailwind CSS, Bootstrap
-- Material UI, Chakra UI
-- SCSS / SASS, Styled Components
-- jQuery, Alpine.js
+<p align="center"><strong>Frameworks & Libraries</strong></p>
+<p align="center">
+React · Next.js · React Native<br/>
+Tailwind CSS · Bootstrap<br/>
+Material UI · Chakra UI<br/>
+SCSS / SASS · Styled Components<br/>
+jQuery · Alpine.js
+</p>
 
-**CMS & APIs**
-- Statamic, Strapi
-- REST APIs, Axios
+<p align="center"><strong>CMS & APIs</strong></p>
+<p align="center">
+Statamic · Strapi · REST APIs · Axios
+</p>
 
-**Tools**
-- Git, GitHub
-- Figma, Adobe XD
-- npm, pnpm, Yarn
-- Jira, Trello, Slack
+<p align="center"><strong>Tools</strong></p>
+<p align="center">
+Git · GitHub · Figma · Adobe XD<br/>
+npm · pnpm · Yarn<br/>
+Jira · Trello · Slack
+</p>
 
-📫 veyselduran80@gmail.com
+<p align="center">
+📫 <a href="mailto:veyselduran80@gmail.com">veyselduran80@gmail.com</a>
+</p>
