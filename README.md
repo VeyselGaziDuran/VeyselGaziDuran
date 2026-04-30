@@ -1,4 +1,4 @@
-<h1 align="center">Veysel</h1>
+<h1 align="center">Veysel Gazi Duran</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/veyselgaziduran/">LinkedIn</a> • 
